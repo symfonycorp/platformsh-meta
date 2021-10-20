@@ -1,0 +1,6 @@
+{
+    "name": "symfonycorp/platformsh-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package for platformsh projects"
+}
